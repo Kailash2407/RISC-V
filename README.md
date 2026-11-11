@@ -249,7 +249,7 @@ Status definitions:
 - [x] **Activity 4.1:** Data Hazard Handling — **Implemented** *(Forwarding and load-use interlock implemented in `pipeline_cpu.v`; ModelSim waveform capture pending)*
 - [x] **Activity 4.2:** Control Hazard Handling — **Implemented** *(Branch/jump detection and pipeline flush implemented in `pipeline_cpu.v`; ModelSim waveform capture pending)*
 - [x] **Activity 4.3:** Performance Comparison — **Implemented** *(Report `report/cpi_comparison.md` created; empirical cycle count pending simulation)*
-- [ ] **Activity 4.4:** Git Submission — **In Progress** *(Repository clean and structured; pending user Git initialization)*
+- [x] **Activity 4.4:** Git Submission — **Verified** *(Repository structured and published to GitHub: https://github.com/Kailash2407/RISC-V)*
 
 ---
 
